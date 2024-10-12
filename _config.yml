@@ -6,14 +6,14 @@
 title: 小伞的博客
 subtitle: ''
 description: '小伞是一只猫猫的名字'
-keywords:
-author: John Doe
-language: en
+keywords: iOS
+author: 小伞
+language: zh-Hans
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xiaosan.online
+url: https://xiaosan-dev.github.io/blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,7 +96,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cactus
+theme_config:
+  colorscheme: dark
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
